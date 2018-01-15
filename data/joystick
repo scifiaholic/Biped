@@ -1,0 +1,9 @@
+Shadow maker
+X	X position	3	SLIDER	X Axis	0	1.0	0.0
+Y	Y position	3	SLIDER	Y Axis	0	1.0	0.0
+A	A position	3	SLIDER	X Rotation	0	1.0	0.0
+B	B position	3	SLIDER	Y Rotation	0	1.0	0.0
+SHADOW	Drop shadow	1	BUTTON	Button 0	0	0.0	0.0
+TRAIL	Leave trail	1	BUTTON	Button 4	0	0.0	0.0
+SHADOW2	Drop shadow2	1	BUTTON	Button 1	0	0.0	0.0
+TRAIL2	Leave trail2	1	BUTTON	Button 5	0	0.0	0.0

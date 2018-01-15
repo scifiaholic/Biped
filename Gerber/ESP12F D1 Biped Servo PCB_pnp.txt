@@ -1,0 +1,28 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ESP12F D1 Biped Servo PCB
+*Date=21:22:57
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;17.4289;-19.8421;-90;Bottom;M2
+2;;;15.4289;-11.5921;-90;Bottom;M9
+3;;;7.09889;-22.5921;90;Bottom;M5
+4;;THT;18.1189;-4.84212;90;Bottom;J1
+5;;;12.8185;-17.3393;0;Bottom;WeMos D1 Mini1
+6;;;7.09889;-19.8421;90;Bottom;M6
+7;;;17.6389;-10.3421;0;Bottom;Jumper1
+8;;;15.4289;-14.3421;-90;Bottom;M3
+9;;;17.4289;-22.8421;-90;Bottom;M1
+10;;;7.09889;-14.3421;90;Bottom;M8
+11;;;7.09889;-11.5921;90;Bottom;M4
+12;;;8.36889;-4.84212;180;Bottom;BATT1
+13;;;7.09889;-17.0921;90;Bottom;M7
