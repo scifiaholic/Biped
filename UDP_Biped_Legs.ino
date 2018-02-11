@@ -4,8 +4,8 @@
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // wifi connection variables
-const char* ssid = "GHome";
-const char* password = "#1Marriage08";
+const char* ssid = "SSID";
+const char* password = "password";
 
 // UDP variables
 WiFiUDP UDP;
